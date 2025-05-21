@@ -2,7 +2,8 @@
 
 A beautiful and responsive personal blog built with React, TypeScript, and styled-components.
 
-![Personal Blog Screenshot](https://i.imgur.com/YourScreenshotHere.png)
+![image](https://github.com/user-attachments/assets/0ac9ad88-0d1e-4d43-bbbb-5cbc3c5acc28)
+
 
 ## Features
 
